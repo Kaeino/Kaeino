@@ -2,10 +2,19 @@
   <img src="https://github.com/Kaeino/Kaeino/blob/main/tumblr_ncx3k4PHUh1tk2r8jo1_500.gif" width="200"/>
 </div>
 
+<p></p>
+
+<div align="center">
+  <h4> > Kaeino Here ! </h4>
+</div>
+
+
+<p></p>
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kaeino&theme=radical" alt="GitHub Streak" /></a>
 </div>
+
 
 
 ###
