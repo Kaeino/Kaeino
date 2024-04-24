@@ -1,6 +1,3 @@
-[![MasterHead](https://github.com/Kaeino/character-selection/blob/main/character-selection/src/res/game-background/non-gif.jpg)](youtube.com)
-
-
 <div align="center">
   <img src="https://github.com/Kaeino/Kaeino/blob/main/tumblr_ncx3k4PHUh1tk2r8jo1_500.gif" width="200"/>
 </div>
