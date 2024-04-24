@@ -1,11 +1,12 @@
 <div align="center">
-   <img src="https://github.com/Kaeino/character-selection/blob/main/character-selection/src/images/game-background/background-1.gif" alt="MasterHead" width="500" object-fit="cover">
+ <img src="https://i.gifer.com/4FB4.gif" alt="4FB4-ezgif com-video-to-gif-converter" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaeino&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </div>
+
 
 ###
 
