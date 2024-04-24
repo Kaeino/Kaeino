@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.gifer.com/4FB4.gif"/>
+  <img src="https://i.gifer.com/4FB4.gif" width="100"/>
 </div>
 
 ###
