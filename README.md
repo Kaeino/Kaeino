@@ -32,6 +32,11 @@
   <a href="@kaeino" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="telegram logo"  />
   </a>
+
+  <p></p>
+
+  ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+  
 </div>
 
 ###
