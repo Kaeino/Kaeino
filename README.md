@@ -90,7 +90,7 @@
 
 <div align="center">
   <div style="width: 20px;">
-    <h3>"Life passes by in the blink of an eye, like whispers in the wind. Embrace each moment, for they are the threads that weave the tapestry of your existence."</h3>
+    <h3>"Life passes by in the blink of an eye, like the fleeting melodies. Embrace each moment, for they are the threads that weave the tapestry of your existence."</h3>
   </div>
 </div>
 
