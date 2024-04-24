@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img height="150" src="https://i.gifer.com/4FB4.gif"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaeino&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </div>
 
 ###
@@ -77,3 +78,5 @@
 <p align="left">💕 Fell in love with Japan, Anime, Game Deve and Web Deve<br><br>🌙 Fun Fact: still haven't played some of my purchased steam games T~T<br><br>🌍 Exploring the Wonders of Web Development and Game Creation<br><br>🕵️ In a quest of treading a Computer Science Degree<br><br>💟 Loves Creating Open World Game Environments</p>
 
 ###
+
+
