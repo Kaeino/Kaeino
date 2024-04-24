@@ -96,5 +96,8 @@
 
 <p></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaeino&theme=radical&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeino&theme=radical&hide_border=false&layout=compact" alt="Top Langs">
+</p>
+
 
