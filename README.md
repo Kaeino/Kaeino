@@ -82,6 +82,20 @@
 
 <p align="left">💕 Fell in love with Japan, Anime, Game Deve and Web Deve<br><br>🌙 Fun Fact: still haven't played some of my purchased steam games<br><br>🌍 Exploring the Wonders of Web Development and Game Creation<br><br>🕵️ In a quest of treading a Computer Science Degree<br><br>💟 Loves Creating Open World Game Environments</p>
 
+
 ###
+
+<p></p>
+<p></p>
+
+<div align="center">
+  <div style="width: 20px;">
+    <h3>"Life passes by in the blink of an eye, like whispers in the wind. Embrace each moment, for they are the threads that weave the tapestry of your existence."</h3>
+  </div>
+</div>
+
+
+
+
 
 
