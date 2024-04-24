@@ -1,4 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<div align="center">
+   <img src="https://github.com/Kaeino/character-selection/blob/main/character-selection/src/images/game-background/background-1.gif" alt="MasterHead" width="500" object-fit="cover">
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaeino&theme=radical&hide_border=false" alt="GitHub Streak Stats">
