@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://i.gifer.com/4FB4.gif" alt="4FB4-ezgif com-video-to-gif-converter" style="width: 100%; height: 100%; object-fit: cover;">
+  <img src="https://github.com/Kaeino/Kaeino/blob/main/tumblr_ncx3k4PHUh1tk2r8jo1_500.gif" width="200"/>
 </div>
 
 
