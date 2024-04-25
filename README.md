@@ -94,7 +94,7 @@
 
 ###
 
-[![MasterHead]("https://github.com/Kaeino/Kaeino/blob/main/kaeino.jpg)](https://www.linkedin.com/in/harvey-medina-383113299/)
+[![MasterHead](https://github.com/Kaeino/Kaeino/blob/main/kaeino.jpg)](https://www.linkedin.com/in/harvey-medina-383113299/)
 
 
 <table align="center" style="border-collapse: collapse;">
