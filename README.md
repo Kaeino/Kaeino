@@ -96,10 +96,13 @@
 
 [![MasterHead](https://github.com/Kaeino/character-selection/blob/main/character-selection/src/res/game-background/non-gif.jpg)](https://www.linkedin.com/in/harvey-medina-383113299/)
 
+
+
 <table align="center" style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border-collapse: collapse;>
       <div align="left">
+        <p></p>
         💕 Fell in love with Japan, Anime, Game Dev and Web Dev<br><br>🌙 Fun Fact: still haven't played some of my purchased Steam games<br><br>🌍 Exploring the Wonders of Web Development and Game Creation<br><br>🕵️ In a quest of treading a Computer Science Degree<br><br>💟 Loves Creating Open World Game Environments
       </div>
     </td>
