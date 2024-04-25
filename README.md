@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Kaeino/Kaeino/blob/main/tumblr_ncx3k4PHUh1tk2r8jo1_500.gif" width="200"/>
+  <img src="https://github.com/Kaeino/Kaeino/blob/main/BMO.gif" width="200"/>
 </div>
 
 <p></p>
@@ -96,8 +96,24 @@
 
 [![MasterHead](https://github.com/Kaeino/character-selection/blob/main/character-selection/src/res/game-background/non-gif.jpg)](https://www.linkedin.com/in/harvey-medina-383113299/)
 
-<p align="left">💕 Fell in love with Japan, Anime, Game Deve and Web Deve<br><br>🌙 Fun Fact: still haven't played some of my purchased steam games<br><br>🌍 Exploring the Wonders of Web Development and Game Creation<br><br>🕵️ In a quest of treading a Computer Science Degree<br><br>💟 Loves Creating Open World Game Environments</p>
 
+
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td style="border-collapse: collapse;>
+      <div align="left">
+        <h3>Aviator's Odyssey</h3>
+        <br>
+        💕 Fell in love with Japan, Anime, Game Dev and Web Dev<br><br>🌙 Fun Fact: still haven't played some of my purchased Steam games<br><br>🌍 Exploring the Wonders of Web Development and Game Creation<br><br>🕵️ In a quest of treading a Computer Science Degree<br><br>💟 Loves Creating Open World Game Environments
+      </div>
+    </td>
+    <td style=""border-collapse: collapse;">
+      <div align="right">
+        <img src="https://github.com/Kaeino/Kaeino/blob/main/andrius.gif" width="400"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ###
 
