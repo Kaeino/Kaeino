@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Kaeino/Kaeino/blob/main/tumblr_ncx3k4PHUh1tk2r8jo1_500.gif" width="200"/>
+  <img src="https://github.com/Kaeino/Kaeino/blob/main/BMO.gif" width="200"/>
 </div>
 
 <p></p>
