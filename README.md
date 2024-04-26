@@ -148,8 +148,14 @@
 
 <p></p>
 
+
+<p align="center">
+  <a href="https://github.com/Kaeino">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaeino&theme=radical" alt="Kaeino"/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeino&theme=radical&hide_border=false&layout=compact" alt="Top Langs">
 </p>
-
 
