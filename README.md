@@ -4,9 +4,11 @@
 
 <p></p>
 
-<div align="center">
-  <h4> > Kaeino Here ! </h4>
-</div>
+<h3 align="center">
+        <samp>&gt; Kaeino
+                <b><a target="_blank" href="https://github.com/Kaeino">Here!</a></b>
+        </samp>
+</h3>
 
 
 <p></p>
