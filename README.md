@@ -46,7 +46,7 @@
 
   <p></p>
 
-  ![](https://komarev.com/ghpvc/?username=kaeino&&color=033E3E&style=flat&abbreviated=true)
+  ![](https://komarev.com/ghpvc/?username=kaeino&&color=033E3E&style=flat-square&abbreviated=true)
 
 </div>
 
