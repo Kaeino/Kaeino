@@ -151,3 +151,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeino&theme=radical&hide_border=false&layout=compact" alt="Top Langs">
 </p>
+
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=kaeino&repo=Kosrion-Unveiling-the-Realm&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kaeino/Kosrion-Unveiling-the-Realm)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=kaeino&repo=Kaeino&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kaeino/Kaeino)
