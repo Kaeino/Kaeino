@@ -5,7 +5,7 @@
 <p></p>
 
 <h3 align="center">
-        <samp>&gt; Kaeino
+        <samp>~ Kaeino
                 <b><a target="_blank" href="https://github.com/Kaeino">Here!</a></b>
         </samp>
 </h3>
