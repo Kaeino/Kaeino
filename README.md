@@ -6,7 +6,7 @@
 
 <h3 align="center">
         <samp>~ Kaeino
-                <b><a target="_blank" href="https://github.com/Kaeino">Here!</a></b>
+                <b><a target="_blank" href="https://youtu.be/dQw4w9WgXcQ">Here!</a></b>
         </samp>
 </h3>
 
@@ -28,19 +28,19 @@
   <a href="https://www.twitch.tv/kaeino" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitch logo"  />
   </a>
-  <a href="kaeinoryl@gmail.com" target="_blank">
+  <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
-  <a href="Kaeino#9104" target="_blank">
+  <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/harvey-medina-383113299/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
-  <a href="@Kaeino" target="_blank">
+  <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo"  />
   </a>
-  <a href="@kaeino" target="_blank">
+  <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
   </a>
 
