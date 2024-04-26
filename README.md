@@ -46,8 +46,8 @@
 
   <p></p>
 
-  ![](https://komarev.com/ghpvc/?username=kaeino&abbreviated=true)
-  
+  ![](https://komarev.com/ghpvc/?username=kaeino&&color=033E3E&style=flat&abbreviated=true)
+
 </div>
 
 ###
@@ -107,6 +107,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="35" alt="adobeaftereffects logo"  />
 </div>
+
 
 ###
 
