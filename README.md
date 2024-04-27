@@ -147,7 +147,7 @@
 </div>
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://github.com/Kaeino/Kaeino/blob/output/.github/workflows/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 <br>
