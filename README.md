@@ -166,6 +166,6 @@
 </p>
 
 <div align="center">
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65b7e05b0c548122835a31e8?variant=dark" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65b7e05b0c548122835a31e8?variant=dark&theme=radical&hide_border=false&layout=compact" alt="roadmap.sh"/></a>
 </div>
 
