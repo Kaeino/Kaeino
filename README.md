@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://github.com/Kaeino/Kaeino/blob/main/BMO.gif" width="200"/>
 </div>
@@ -148,7 +147,7 @@
 </div>
 
 <div align="center">
-    <img alt="snake eating my contributions" src="https://github.com/Kaeino/Kaeino/blob/output/.github/workflows/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 <br>
