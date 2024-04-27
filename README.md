@@ -1,7 +1,3 @@
-<div align="center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kaeino/kaeino/output/github-contribution-grid-snake.svg" />
-</div>
-
 
 <div align="center">
   <img src="https://github.com/Kaeino/Kaeino/blob/main/BMO.gif" width="200"/>
@@ -149,6 +145,10 @@
   <div style="width: 20px;">
     <h3>"Life passes by in the blink of an eye, like the fleeting melodies. Embrace each moment, for they are the threads that weave the tapestry of your existence."</h3>
   </div>
+</div>
+
+<div align="center">
+    <img alt="snake eating my contributions" src="https://github.com/Kaeino/Kaeino/blob/output/.github/workflows/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br>
