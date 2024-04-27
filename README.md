@@ -164,3 +164,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeino&theme=radical&hide_border=false&layout=compact" alt="Top Langs">
 </p>
+
+<img src="https://raw.githubusercontent.com/kaeino/kaeino/output/snake.svg" alt="Snake animation" />
