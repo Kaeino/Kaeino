@@ -1,5 +1,5 @@
 <div align="center">
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/kaeino/kaeino/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kaeino/kaeino/output/github-contribution-grid-snake.svg" />
 </div>
 
 
