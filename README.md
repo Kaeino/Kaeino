@@ -124,7 +124,7 @@
       <div align="left">
          <h3>A Viator's Odyssey </h3>
         <br>
-        💕 Fell in love with Japan, Anime, Game Dev and Web Dev<br><br>🌙 Fun Fact: still haven't played some of my purchased Steam games<br><br>🌍 Exploring the Wonders of Web Development and Game Creation<br><br>🕵️ In a quest of treading a Computer Science Degree<br><br>💟 Loves Creating Open World Game Environments
+        💕 Fell in love with Japan, Anime, Game Dev and Web Dev<br><br>🌙 Fun Fact: Sheesh<br><br>🌍 Exploring the Wonders of Web Development and Game Creation<br><br>🕵️ In a quest of treading a Computer Science Degree<br><br>💟 Loves Creating Open World Game Environments
       </div>
     </td>
     <td style=""border-collapse: collapse;">
