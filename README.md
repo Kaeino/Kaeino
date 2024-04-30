@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Kaeino/Kaeino/blob/main/purple thing.gif" width="200"/>
+  <img src="https://github.com/Kaeino/Kaeino/blob/main/andrius.gif" width="200"/>
 </div>
 
 <p></p>
