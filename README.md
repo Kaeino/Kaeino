@@ -125,11 +125,11 @@
          <h3>A Viator's Odyssey </h3>
         <br>
         💕 Fell in love with Japan, Anime, Game Dev and Web Dev<br><br>🌙 Fun Fact: Sheesh<br><br>🌍 Exploring the Wonders of Web Development and Game Creation<br><br>🕵️ In a quest of treading a Computer Science Degree<br><br>💟 Loves Creating Open World Game Environments
-      </div>
+      </div
     </td>
     <td style=""border-collapse: collapse;">
       <div align="right">
-        <img src="https://github.com/Kaeino/Kaeino/blob/main/andrius.gif" width="400"/>
+        <img src="https://github.com/Kaeino/Kaeino/blob/main/andrius.gif" width="500"/>
       </div>
     </td>
   </tr>
