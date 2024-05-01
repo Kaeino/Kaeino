@@ -129,7 +129,7 @@
     </td>
     <td style=""border-collapse: collapse;">
       <div align="right">
-        <img src="https://github.com/Kaeino/Kaeino/blob/main/Dvalin.gif" width="300"/>
+        <img src="https://github.com/Kaeino/Kaeino/blob/main/Dvalin.gif" width="500"/>
       </div>
     </td>
   </tr>
