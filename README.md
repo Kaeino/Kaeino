@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="center">Skills Mastering</h2> 
+<h2 align="center">Skillcrafts Mastering</h2> 
 
 ###
 
