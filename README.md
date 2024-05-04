@@ -6,7 +6,7 @@
 
 <h3 align="center">
         <samp>~ Kaeino
-                <b><a target="_blank" href="https://youtu.be/dQw4w9WgXcQ">Here!!</a></b> 
+                <b><a target="_blank" href="https://youtu.be/dQw4w9WgXcQ">Here!</a></b> 
         </samp>
 </h3>
 
