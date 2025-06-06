@@ -10,8 +10,6 @@
         </samp>
 </h3>
 
-<p>Blog - imperfectdev.hashnode.dev </p>
-
 <p></p>
 
 <div align="center">
