@@ -10,6 +10,12 @@
         </samp>
 </h3>
 
+<h3 align="center">
+        <samp> → My Blog
+                <b><a target="_blank" href="imperfectdev.hashnode.dev">Learning Web Dev the Real, Imperfect Way</a></b> 
+        </samp>
+</h3>
+
 <p></p>
 
 <div align="center">
