@@ -12,7 +12,7 @@
 
 <h3 align="center">
         <samp> → My Blog
-                <b><a target="_blank" href="imperfectdev.hashnode.dev">Learning Web Dev the Real, Imperfect Way</a></b> 
+                <b><a target="_blank" href="https://imperfectdev.hashnode.dev/">Learning Web Dev the Real, Imperfect Way</a></b> 
         </samp>
 </h3>
 
